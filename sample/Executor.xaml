@@ -1,0 +1,15 @@
+﻿<Window x:Class="sample.Executor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sample"
+        mc:Ignorable="d"
+        Title="Executor" Height="450" Width="800">
+    <Grid>
+        <Label Content="Sample finish make by 
+               
+               " FontSize="72" Margin="5,72,-29,10"/>
+        <Label Content="jotoro" Margin="273,186,37,88" FontSize="72"/>
+    </Grid>
+</Window>
